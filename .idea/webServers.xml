@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="276498d4-4cb1-4174-9734-ffb30c8261ee" name="texture">
+        <fileTransfer rootFolder="/mnt/nas/home/jiangzetian" accessType="SFTP" host="202.120.39.51" port="63000" sshConfigId="e0347622-6746-4c0b-a4e2-637b3f40350a" sshConfig="63000">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
